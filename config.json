@@ -95,7 +95,7 @@
 	"device_reboot_time_friday": "",
 	"device_reboot_time_saturday": "",
 	"custom_icon": false,
-	"hide_toolbar": true,
+	"hide_toolbar": false,
 	"show_restart_app_menu": false,
 	"show_reboot_device_menu": false,
 	"show_clear_app_data_menu": false,
