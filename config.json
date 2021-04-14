@@ -3,7 +3,7 @@
 	"settings_password": "0000",
 	"wifi_settings_password": "ChangeW1f1",
 	"default_app": "Not Set",
-	"visible_apps": "de.arsaltmann.arsschaden,de.arsaltmann.arscompound,com.android.chrome,com.android.settings,"com.teamviewer.host.market",
+	"visible_apps": "de.arsaltmann.arsschaden,de.arsaltmann.arscompound,com.android.chrome,com.android.settings,com.teamviewer.host.market",
 	"allowed_apps": "",
 	"clear_data_apps": "",
 	"clear_app_data_idle_timeout": 60,
