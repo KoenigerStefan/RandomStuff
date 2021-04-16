@@ -114,11 +114,6 @@
 		"package": "de.arsaltmann.arscompound",
 		"version": 10,
 		"url": "https://arslauncher.blob.core.windows.net/public/apk/arscompound-10-internet-release.apk"
-	},
-	{
-		"package": "com.teamviewer.host.market",
-		"version": 8752,
-		"url": "https://arslauncher.blob.core.windows.net/public/apk/TeamViewerHost.apk"
 	}
 ]
 }
